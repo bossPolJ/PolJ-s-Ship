@@ -1,6 +1,6 @@
-# PolJ's Birdy
+# PolJ's Ship
 
-PolJ's Birdy is a React Native mobile game built with Expo Router.  
+PolJ's Ship is a React Native mobile game built with Expo Router.  
 It is a space / sci-fi inspired tap game where the player controls a rocket, boosts upward, avoids crystal walls, and tries to survive as long as possible.
 
 ## Features
